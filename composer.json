@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/sidebar_category_listing",
+    "name": "OpenMageModuleFostering\/sidebar_category_listing",
     "type": "magento-module",
     "license": "OSL",
     "homepage": "",
     "description": "Extension that display categories in sidebar",
     "authors": [
-    {
-        "name": "Matrix infologics",
-        "email": "matrixinfologics@gmail.com"
-    }
-],
+        {
+            "name": "Matrix infologics",
+            "email": "matrixinfologics@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
